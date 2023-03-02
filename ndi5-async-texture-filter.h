@@ -82,10 +82,8 @@ struct filter {
 	uint32_t buffer_index;
 	uint32_t frame_count;
 
-	uint32_t y_stride;  // I420, NV12
-	uint32_t u_stride;  // I420
-	uint32_t v_stride;  // I420
-	uint32_t uv_stride; // NV12
+	uint32_t y_stride;
+	uint32_t uv_stride;
 
 	const char *setting_sender_name; // realtime setting
 
