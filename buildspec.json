@@ -7,47 +7,47 @@
             "hash": "0fb8bb4b1e18ee1c870c48d35ab5b598af3b59e9"
         },
         "prebuilt": {
-            "version": "2023-01-06",
+            "version": "2023-03-02",
             "baseUrl": "https://github.com/obsproject/obs-deps/releases/download",
             "label": "Pre-built obs-deps",
             "hashes": {
-                "macos-x86_64": "67d1080536efb4e47a5f4fcf47d07680ef5847d72a1170cb917fc65698b628b0",
-                "macos-arm64": "06b363a842de8d470d4fcae68823178574905de6c98c5dd21052b8a96fc9a0a3",
-                "macos-universal": "811c022a178230d3b9ad1eeb8ae9e1de0e6017b69364f50b183e36246509e0e8",
-                "windows-x64": "1026a72af2548d589e30d58edf2b3c7f2f6a16d8fd481ab33aab64d8181b1556",
-                "windows-x86": "315a9e445d518503bdd36d9fdfee2b2ba1f791355420055c0ef97cd54897a754"
+                "macos-x86_64": "b6f35fb41a0e39d791a07d4f42b4231c81d2ed96b293926e011149be692abf7c",
+                "macos-arm64": "efdb064df75b03df01c8ff594c56a0bf0ec97cf3e3da57adae818aa0cb242b35",
+                "macos-universal": "c351fd858291f05b6638206026334f61f2b4dcf650dbb2d8a92c64f141a4a4e6",
+                "windows-x64": "19c1c1f43f6e8a3ca2a7460b80e1ea8ffe2c52b701100319ac5f4808bf8ec8f5",
+                "windows-x86": "6afb1f6fff1e28c6563fd0e5eb6dee512d074b891e2244bb041eec11b145a012"
             }
         },
         "qt5": {
-            "version": "2023-01-06",
+            "version": "2023-03-02",
             "baseUrl": "https://github.com/obsproject/obs-deps/releases/download",
             "label": "Pre-built Qt5",
             "hashes": {
-                "macos-x86_64": "5894ac8a7e3f1fd0035d87a5679eaad08b2193d771124eeb506bc5e54fb7c411",
-                "macos-arm64": "a32a30cf7d9efe0a08f0d58355a17be4ec9fecc9b1a7dc958ff1c16e0a73e14d",
-                "macos-universal": "b06f947cda11452cd6e7d28ae29bb6eb7e61be15445e260d49e21f555f55bd6e",
-                "windows-x64": "4ac110d268272ff073957493d9d84cfec75939b6e3d845bc3b17d9d7620d869a",
-                "windows-x86": "6c1d7dfb23fbb7a32bcbf6e963db61d408be91db56a2e2dae5f7905173445fe2"
+                "macos-x86_64": "9e3d67070851bcfdf853c7ed9f2f3d6135c4df47799b622ddbd5bb8c9bd264bb",
+                "macos-arm64": "43f6f67b20028008f42ad4865c91938741e82e217a187bbfa02ed44ff713914f",
+                "macos-universal": "ee681d630d3e5d4c3ff7833677cca539387b37183ecdf5a1f93d44ceea374a70",
+                "windows-x64": "a33beb1fbc4405b252ae675a31aefb0b9c64111dbcc0c1618e2264464f029785",
+                "windows-x86": "59a7466e69779cbf6e429d83899eb140c90f17287d5b96edd4cc0b2faad73580"
             },
             "pdb-hashes": {
-                "windows-x64": "29edaf1b9442b374a2d8252d4d0936424e353e91a59fff4265cd13bb2ae71e7a",
-                "windows-x86": "67044abd25420c2e77c57f0270940df06092a2f271982a399c254e3af278bff1"
+                "windows-x64": "9dde4a0f9101b79706c7ca3208a9541b2f3e975e331320d0bacc716e19239a03",
+                "windows-x86": "32a5f54e9d33ed7b5a8acfc061806f831ef297f9ce158e09713fee1b25a0e5f2"
             }
         },
         "qt6": {
-            "version": "2023-01-06",
+            "version": "2023-03-02",
             "baseUrl": "https://github.com/obsproject/obs-deps/releases/download",
             "label": "Pre-built Qt6",
             "hashes": {
-                "macos-x86_64": "d6b1055e16a5569fcbee3076488bbaf0ea7323632d6ea978937b70f10cd1a50d",
-                "macos-arm64": "39980aed1e2cd82b791f3d8329f0445f01754e4af762724efbd5301ab2128af8",
-                "macos-universal": "dfa3c48ee46765029d06773ba08d84b3f11360547171c8e736019c77fabff80d",
-                "windows-x64": "525370749446703f165b9c538d94a4f7badb2715cbe3360975ca5579300f2c3c",
-                "windows-x86": "799cea49fcfeab602aefb813bc40a2673a8fd4404e4c7c142e513928ce0ccf4b"
+                "macos-x86_64": "3f6760f4b7d551f93ceb209b829f50dcbe7543b514a2ac8c8ff5a4221096630e",
+                "macos-arm64": "3a96cf4409dd76889b6a419460b8ea22d11247aabaf5ad4940d7bc8ff725f917",
+                "macos-universal": "5c7182e62b7ff5e5c416ac265ceb5a957bf38116e8a4ee069c74355d9e0c4b72",
+                "windows-x64": "7e656b078f9b57080ea24e166f012583a64ff79cfb1e67f85bd14c6a4411bc70",
+                "windows-x86": "567dabf3f9e51c9c876e064f1cca04e1df9222031fec92571ca8d6f5de4bdfed"
             },
             "pdb-hashes": {
-                "windows-x64": "8d3e4f09042bd987b417c3b0ca9d1dcd46f11f7c62de10566dfaf72cf93eeefe",
-                "windows-x86": "0a01ed741987ee46cc7b489c82d95fb806072accac2b42a5997a5664c0b90492"
+                "windows-x64": "e9c43d4a5e3a15e2ebae8df81c27e9150312ef0ac70d2ffa36fef733bbe3d0bb",
+                "windows-x86": "947c42003a1599538384d23af120c8b9920587680d00a0952647155b6bf4d45b"
             }
         }
     },
@@ -79,5 +79,7 @@
         }
     },
     "name": "obs-ndi5-async-filter",
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "author": "Michael Mahgu",
+    "email": "me@contoso.com"
 }
